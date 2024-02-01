@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on nothing yet.
 - 📫 How to reach me ...
 - 😄 Pronouns: he/him
-- ⚡ Experience: I have been coding for 3 weeks
+- ⚡ Experience: I have been coding for 2 weeks
 
 <!---
 Venomous-Python/Venomous-Python is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
